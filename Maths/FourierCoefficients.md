@@ -31,6 +31,6 @@ $\implies$ $b_m = \frac{1}{\pi} \int_0^(2\pi)f(t)sin(mt)dt$
 
 - f & f' piecewies continuous on [-L, L)
 
-$$$
+$$
 \frac{a_0}{2} + \sum_{n=1}^{\infty} a_n cos(\frac{n\pi t}{L}) + \sum_{n=1}^\infty b_n sin(\frac{n\pi t}{L})
-$$$
+$$
